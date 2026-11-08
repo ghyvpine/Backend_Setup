@@ -1,6 +1,6 @@
 # Backend Setup Service (PHP & MySQL Docker)
 
-Repository ini berisi konfigurasi lingkungan backend berbasis **PHP** dan **Database MySQL** menggunakan **Docker Compose**. Dikembangkan oleh **Muhammad Ghifar Rahman** untuk kebutuhan pengumpulan tugas dan pengujian backend secara lokal.
+Repository ini berisi konfigurasi lingkungan backend berbasis **PHP** dan **Database MySQL** menggunakan **Docker Compose** secara lokal.
 
 ---
 
